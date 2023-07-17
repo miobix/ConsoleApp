@@ -30,6 +30,7 @@ This Program is not intended to work as a ConsoleApp.
   - Constructor
   - setter and getter methods
   - set, get shorthand // prop, propfull shortcut
-  - Static Class methods
+  - Static Attributes
+  - Static Class Methods
   - Inheritance
   - Protecting Private Properties
