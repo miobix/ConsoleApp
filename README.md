@@ -17,6 +17,7 @@ This Program is not intended to work as a ConsoleApp.
 - While Loops
 - For Loops
 - If/Else
+- Switch/case
 - Matrices as Arrays
 - Try/Catch to handle exceptions
 - Instances and Classes
