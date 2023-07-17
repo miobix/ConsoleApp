@@ -2,9 +2,11 @@
 
 ## Description
 
-This Program is a collection of my personal notes used when learning the basics of C-sharp
-It is uploaded "as it is" on a separate github repository for future reference
-This Program is not intended to work as a ConsoleApp. 
+This Program is a collection of my personal notes used when learning the basics of C-sharp.
+
+It is uploaded "as it is" on a separate github repository for future reference.
+
+This Program does not have a practical functionality if run. 
 
 ## Covered Topics
 
